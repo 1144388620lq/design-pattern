@@ -6,7 +6,6 @@ package com.lq.design.pattern.creational.samplefactory;
  * @Description:
  */
 public class JavaVideo extends  Video {
-
     @Override
     void product() {
         System.out.println("  这是生产java的课程的");
