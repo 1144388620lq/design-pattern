@@ -5,7 +5,7 @@ package com.lq.design.pattern.creational.abstractfactory;
  * @Date: 2018/12/3 21:06
  * @Description:
  */
-public class Test {
+public class App {
 
 
     public static void main(String[] args) {

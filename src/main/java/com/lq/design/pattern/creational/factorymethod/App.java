@@ -5,7 +5,7 @@ package com.lq.design.pattern.creational.factorymethod;
  * @Date: 2018/12/2 20:05
  * @Description:
  */
-public class Test {
+public class App {
     //jdk源码相关代码 简单工厂模式  jdk最佳实践  Class.forname   Calendar.getInstance等等
 
     //v1

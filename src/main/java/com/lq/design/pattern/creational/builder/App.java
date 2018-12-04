@@ -8,7 +8,7 @@ import java.util.Date;
  * @Date: 2018/12/4 20:34
  * @Description:建造者模式
  */
-public class Test {
+public class App {
     public static void main(String[] args) {
         Course course = new Course.CourseBuilder().buildName("go")
                 .buildCreated(new Date())
