@@ -1,4 +1,4 @@
-package com.lq.design.pattern.structer;
+package com.lq.design.pattern.structer.faced;
 
 /**
  * @Auther: LQ
